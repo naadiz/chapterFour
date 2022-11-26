@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kertas Gunting Batu</string>
+    <string name="player_txt">Pemain 1</string>
+    <string name="com_txt">Com</string>
+    <string name="vs_txt">VS</string>
+    <string name="kertas_txt">Kertas</string>
+    <string name="gunting_txt">Gunting</string>
+    <string name="batu_txt">Batu</string>
+    <string name="play">MAIN</string>
+</resources>
